@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+termcolor
+scikit-learn
+xgboost
+torch
+matplotlib
+seaborn
+ta
+
